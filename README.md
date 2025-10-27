@@ -1,7 +1,7 @@
 # Reconnaissance-Scanning
 Purpose. This document is a concise but detailed operational guide for basic information-gathering and scanning tasks used during the reconnaissance stage of an ethical-hacking engagement. It is written as a reference for practitioners who want clear commands, rationale, and practical notes suitable for inclusion in a GitHub repository. All commands shown are for Unix-like systems (Linux/macOS). Use only on systems and networks for which you have explicit authorization.
 
-# Table of contents
+# Table of contents (Found in Reconnaissance.md)
 
 1. Overview and legal/ethical notice
 
