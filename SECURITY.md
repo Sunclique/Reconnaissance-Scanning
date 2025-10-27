@@ -1,0 +1,1 @@
+ **Authorization and permitted use.** The techniques documented in this file are intended for use only on systems you own or systems for which you have explicit written authorization. Unauthorized scanning, enumeration, or system probing may be illegal and unethical. The author is not responsible for misuse.
