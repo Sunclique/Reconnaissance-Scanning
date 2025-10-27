@@ -1,0 +1,3 @@
+Reconnaissance is the early phase of any penetration test or security assessment. Typical objectives include enumerating network hosts, discovering exposed services and versions, identifying technologies that power a target’s public assets, and collecting public contact information. While the techniques in this document are widely used by security professionals, they are intrusive if used without permission.
+
+Legal & ethical reminder: Only perform scans and data collection on systems you own or on which you have written authorization. Unauthorized scanning, enumeration, or data harvesting may violate laws and terms of service.
